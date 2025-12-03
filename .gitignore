@@ -1,0 +1,10 @@
+,vscode/
+ML.zip
+*.zip
+*.csv
+*.png
+*.jpg
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+git-filter-repo/
